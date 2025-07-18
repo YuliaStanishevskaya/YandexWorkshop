@@ -1,0 +1,16 @@
+Ссылки на дашборды:
+
+Анализ пользовательских предпочтений в Яндекс.Афише
+https://datalens.yandex/0hkpywmnzddgm
+
+Визуализация и анализ метрик сервиса доставки еды
+https://datalens.yandex/lfcr5wspq5yq7
+
+Дашборд для агентства недвижимости
+https://datalens.yandex/boice9ug75aoy
+
+Анализ сервиса TED
+https://datalens.yandex/zb1m65ydfcsom
+
+Анализ продаж интернет-магазина
+https://datalens.yandex/q2dt5x7f1pped 
